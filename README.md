@@ -24,7 +24,7 @@ A word of warning from experience: a `.bin` that merely *exists* is not enough. 
 or stub binary passes the badge check and then renders nothing in game. This script
 verifies every file it writes and refuses to install one with zero buildings.
 
-## Usage
+## How to Use
 
 ```bash
 # one map — writes buildings_index.bin.gz next to the json
