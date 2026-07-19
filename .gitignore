@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Backups this tool writes next to files it converts
+*.bak
+*.bak_*
+*.sbbi.tmp
+
+# Test / sample map data — don't commit big binaries
+*.bin
+*.bin.gz
+buildings_index.json
+buildings_index.json.gz
+
+# OS cruft
+.DS_Store
+Thumbs.db
